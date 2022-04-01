@@ -55,3 +55,6 @@ $ npm run test
 
 - We can introduce ways to update/delete offers on fly.
 - We can introduce UI or CLI to better illustrate the Checkout functonality.
+- Database Integration and API implementation can be done (not implemented due to time constraint)
+- We can containerized application, by introducing Docker and Docker-compose
+
